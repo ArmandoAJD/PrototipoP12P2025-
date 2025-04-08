@@ -1,0 +1,41 @@
+commit 3b0c97bda928d4dd572aa031e9c4996e49c337b5
+Author: [Armando De Leon] <[adeleono7@miumg.edu.gt]>
+Date:   Tue Apr 8 10:55:22 2025 -0600
+
+    Quinto commit
+
+commit ee10277e261a66eed02857b943f4b3d7ef85e511
+Author: [Armando De Leon] <[adeleono7@miumg.edu.gt]>
+Date:   Tue Apr 8 10:54:17 2025 -0600
+
+    Cuarto commit
+
+commit 16d6e19cc512edf30caa9427ebf6270dcc6cc195
+Author: [Armando De Leon] <[adeleono7@miumg.edu.gt]>
+Date:   Tue Apr 8 10:52:41 2025 -0600
+
+    Tercer commit
+
+commit efb3516eb21d70925cf57f53a8aa1c1ff4bbe38b
+Author: [Armando De Leon] <[adeleono7@miumg.edu.gt]>
+Date:   Tue Apr 8 10:51:06 2025 -0600
+
+    Segundo commit
+
+commit 82a5e0facbf29e7b98b87a6dc48c8d7e33ca3a76
+Author: [Armando De Leon] <[adeleono7@miumg.edu.gt]>
+Date:   Tue Apr 8 10:49:16 2025 -0600
+
+    Primer commit
+
+commit 5d545c999dea1ac230325444cbaccae61b1793a1
+Author: [Armando De Leon] <[adeleono7@miumg.edu.gt]>
+Date:   Tue Apr 8 10:28:40 2025 -0600
+
+    Primer nvi prueba
+
+commit 5cbad7a440f06b72c8babdb21d2cf1c1a4fd0dab
+Author: ArmandoAJD <adeleono7@miumg.edu.gt>
+Date:   Tue Apr 8 10:11:45 2025 -0600
+
+    Initial commit
